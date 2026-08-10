@@ -1,4 +1,4 @@
-# Hi, I'm Inuwa Muhammad 👋
+# Hey there I'm Inuwa
 
 ### Computer Scientist building full-stack & AI-powered software systems.
 
