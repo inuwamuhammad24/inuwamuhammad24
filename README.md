@@ -1,29 +1,41 @@
-# Hey there I'm Inuwa
+# Hi, I'm Inuwa 👋
 
-### Computer Scientist building full-stack & AI-powered software systems.
+### Full-Stack Developer & AI Systems Builder
+Founder & Lead Engineer at **Nexus Point Innovation**
 
-I build practical software products through **Nexus Point Innovation**, focused on AI, business systems, and education technology.
+I design and ship production-ready software systems across **AI-driven interfaces**, **enterprise business tooling**, and **distributed utilities**. Focused on high-impact architecture, clean data pipelines, and responsive frontend experiences.
 
-## 🚀 Projects
+---
 
-- 🤖 **Matty AI** — AI-powered university information assistant
-- 🏫 **Academix** — Secondary school management system
-- 🧾 **NexusPOS** — Point-of-sale & business management platform
-- ⚖️ **Mawārith** — Algorithmic Islamic inheritance system
-- 📚 **EasyLearn** — Online learning platform
+### 🚀 Featured Deployments & Systems
 
-## 🛠️ Tech Stack
+* 🤖 **Matty AI** — Production RAG-powered campus assistant delivering real-time streaming queries across university knowledge bases.
+* 🏫 **Academix** — Multi-tenant school ERP & automated grade computation engine with role-based access control.
+* 🧾 **NexusPOS** — Full-stack retail point-of-sale, real-time inventory tracking, and transaction analytics platform.
+* ⚖️ **Mawārith** — Deterministic algorithmic engine computing complex inheritance distributions according to Islamic legal principles.
+* 📚 **EasyLearn** — Scalable e-learning portal designed for modular course delivery and interactive student tracking.
 
-**Frontend:** React · JavaScript · Tailwind CSS  
-**Backend:** Node.js · Express.js  
-**Database:** MongoDB  
-**AI:** RAG · LLMs · Vector Search  
-**Tools:** Git · Webpack · Yarn
+---
 
-## 📌 Currently Building
+### 🛠️ Tech Stack & Architecture
 
-Turning software ideas into production-ready products through **Nexus Point Innovation**.
+* **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+), Modern State Management
+* **Backend & APIs:** Node.js, Express.js, RESTful API Architecture, Microservices
+* **Databases:** MongoDB (Aggregations, Indexing, Modeling), Vector Databases
+* **AI & Retrieval:** RAG Pipelines, LLM API Orchestration, Semantic Search
+* **DevOps & Tooling:** Git, GitHub Actions, Yarn, Webpack, Postman
 
-## 📫 Connect
+---
 
-[GitHub](https://github.com/inuwamuhammad24) · [LinkedIn](https://www.linkedin.com/in/inuwa-muhammad-1a7622395)
+### 📈 Current Focus
+
+* Scaling enterprise SaaS architectures and automated backend workflows at **Nexus Point Innovation**.
+* Exploring advanced chunking and retrieval strategies for localized AI agents.
+
+---
+
+### 🌐 Connect & Collaborate
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inuwa-muhammad-1a7622395)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/inuwamuhammad24)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:inuwamuhammad24@gmail.com)
